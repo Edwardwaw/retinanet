@@ -1,6 +1,4 @@
-the repo is forked from 
-
-[liangeming's  github repo]: https://github.com/liangheming/retinanetv1
+the repo is forked from [liangeming's  github repo]: https://github.com/liangheming/retinanetv1
 
 # RetinaNet
 
